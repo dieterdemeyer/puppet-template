@@ -1,3 +1,7 @@
-source "https://rubygems.org"
+source :rubygems
 
-gem "cardboard", "~> 1.0"
+gem 'rake'
+gem 'rspec'
+gem 'rspec-puppet'
+gem 'ci_reporter'
+gem 'puppet-lint'
