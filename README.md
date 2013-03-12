@@ -19,4 +19,8 @@ boxen::example { 'best example ever':
 
 ## Development
 
-Write code. Run `rake build` to test it.
+Write code. Run one of the following tasks to test it:
+* `rake syntax`
+* `rake style`
+* `rake spec`
+* `rake build`
